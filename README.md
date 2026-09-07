@@ -17,7 +17,7 @@
 ## Local preview
 
 ```bash
-python3 -m http.server 4173 -d brazil-underwear-dashboard
+python3 -m http.server 4173
 ```
 
 然后打开 `http://127.0.0.1:4173/`。
