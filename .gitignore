@@ -1,0 +1,6 @@
+# Local source workbook and office lock files stay out of the public repository.
+*.xlsx
+*.xls
+.~lock.*
+.DS_Store
+
